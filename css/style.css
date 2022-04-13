@@ -513,7 +513,7 @@ ul.dropdown-menu li {
 .slider {
   background: url("../images/bg1.jpg") no-repeat center fixed;
   width: 100%;
-  height: auto;
+  height: 100%;
   background-size: cover;
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
