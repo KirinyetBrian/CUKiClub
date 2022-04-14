@@ -286,7 +286,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 /* Links */
 a {
-  color: #242424;
+  color: white;
   text-decoration: none;
 }
 
@@ -566,6 +566,7 @@ ul.dropdown-menu li {
   left: 0px;
   top: 0px;
   width: 45%;
+  height:70%;
   min-height: 650px;
   background: url("../images/about/home-8.jpg") no-repeat;
   background-size: cover;
