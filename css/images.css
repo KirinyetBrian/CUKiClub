@@ -1,0 +1,124 @@
+#home{
+    background-image: url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#chairperson{
+    background-image: url(../images/TheTeam/chairperson.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#dchairperson{
+    background-image: url(../images/TheTeam/dchairperson23.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#treasurer{
+    background-image: url(../images/TheTeam/treasurer.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#coordinatorSCM{
+    background-image: url(../images/TheTeam/coordinatorscm6.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#coordinatorSCD{
+    background-image: url(../images/TheTeam/coordinatorscd3.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#blankprofile{
+    background-image: url(../images/TheTeam/blankprofile.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    border-radius: 100%;
+}
+#techfield{
+    background-image: url(../images/fields/technologyfield.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#businessfield{
+    background-image: url(../images/fields/businessfield.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#fintechfield{
+    background-image: url(../images/fields/fintechfield.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#agriculturefield{
+    background-image: url(../images/fields/agriculturefield.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#fashionfield{
+    background-image: url(../images/fields/fashionfield.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
+#foodfield{
+    background-image: url(../images/fields/foodfield.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
