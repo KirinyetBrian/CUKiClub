@@ -389,7 +389,7 @@ a:focus {
   padding: 40px 0px;
 }
 
-#navbar {
+.navbar{
   background:#c45e0c;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
@@ -412,7 +412,7 @@ a:focus {
   color: #57c4f7;
 }
 
-#navbar .btn {
+#navbar{
   padding: .5rem 1.5rem;
   color: #fff;
 }
@@ -1281,9 +1281,6 @@ h3.quote::before {
     margin-left: 0px;
     display: block;
   }
-  .navbar-toggler {
-    color: #fff;
-  }
   .slider .block h1 {
     font-size: 28px;
     line-height: 40px;
@@ -1335,92 +1332,6 @@ h3.quote::before {
     text-align: center;
   }
 }
-
-@media (max-width: 480px) {
-  .header-top .header-top-info a {
-    margin-left: 0px;
-  }
-  .navbar-toggler {
-    color: #fff;
-  }
-  .slider .block h1 {
-    font-size: 38px;
-    line-height: 50px;
-  }
-  .slider {
-    padding: 126px 0 151px 0;
-  }
-  .content-title {
-    font-size: 28px;
-    line-height: 46px;
-  }
-  .bg-about {
-    display: none;
-  }
-  .p-5 {
-    padding: 2rem !important;
-  }
-  h2, .h2 {
-    font-size: 1.3rem;
-    font-weight: 600;
-    line-height: 36px;
-  }
-  .testimonial-item .testimonial-item-content {
-    padding-left: 0px;
-    padding-top: 30px;
-  }
-  .footer-socials {
-    margin-top: 20px;
-  }
-  .footer-socials li a {
-    margin-left: 0px;
-  }
-  .blog-item-meta span {
-    display: block;
-    margin: 6px 0px;
-  }
-  .widget {
-    margin-bottom: 30px;
-    padding-bottom: 0px;
-  }
-  .dropdown-menu {
-    display: none;
-    width: 100%;
-    text-align: center;
-  }
-}
-
-@media (max-width: 768px) {
-  .navbar-toggler {
-    color: #fff;
-  }
-  .bg-about {
-    display: none;
-  }
-  .footer-socials {
-    margin-top: 20px;
-  }
-  .footer-socials li a {
-    margin-left: 0px;
-  }
-  .slider .block h1 {
-    font-size: 56px;
-    line-height: 70px;
-  }
-  .blog-item-meta span {
-    display: block;
-    margin: 6px 0px;
-  }
-  .widget {
-    margin-bottom: 30px;
-    padding-bottom: 0px;
-  }
-  .dropdown-menu {
-    display: none;
-    width: 100%;
-    text-align: center;
-  }
-}
 /*Animations*/
 .w3-animate-bottom{
   animation-duration:3s;
@@ -1434,5 +1345,3 @@ h3.quote::before {
 .w3-animate-top{
   animation-duration:2s;
 }
-div:scroll
-/*# sourceMappingURL=maps/style.css.map */
