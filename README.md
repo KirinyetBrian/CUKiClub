@@ -15,7 +15,7 @@ This uses a number of open source projects to work properly:
 
  requires [Node.js](https://nodejs.org/) v17.5.0+ to run.
 
-Install the dependencies and devDependencies and start a developmentserver.
+Install the dependencies and devDependencies and start a development server.
 
 ```sh
 cd CUKiClub
