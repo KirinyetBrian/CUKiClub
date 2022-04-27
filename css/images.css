@@ -32,6 +32,16 @@
     background-position-y: center;
     border-radius: 100%;
 }
+#secretary{
+    background-image: url(../images/TheTeam/secretary.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 100%;
+}
 #treasurer{
     background-image: url(../images/TheTeam/treasurer.png);
     width: 200px;
