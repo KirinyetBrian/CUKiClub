@@ -3,7 +3,7 @@ const MongoClient = mongo.MongoClient;
 
 
   const uri =
-    "mongodb+srv://brad-kabecha:LfmLb9K9SC7Cjnft@cluster0.bvlyn.gcp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+    "";//TODO 
   
    async function addUser(data) {
     const client = new MongoClient(uri, {
